@@ -1,0 +1,7 @@
+[submodule "romeusblog/themes/beautifulhugo"]
+	path = romeusblog/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "romeusblog/public"]
+	path = romeusblog/public
+	url = https://github.com/Romeus/romeus.github.io.git
+	branch = main
