@@ -49,5 +49,8 @@ https://www.credly.com/badges/f03f5072-06b5-4d09-9b2d-0b8c32e7d827
  https://www.linuxjournal.com/content/core-knowledge-modern-linux-kernel-developer-should-have  
  https://www.dice.com/career-advice/linux-developer-skills-everything-you-need-to-know
 
-- Review my CV:  
+- Review my CV:
  [CV Roman Storozhenko](/cv/cv_roman_storozhenko_latest.pdf)
+
+- Review my FW experience:
+ [FW experience Roman Storozhenko](/cv/roman_storozhenko_fw_exp.pdf)
