@@ -140,6 +140,9 @@ To conclude, none of the above matters without the main goal:
 
 - sharing technical knowledge in a way that people genuinely appreciate
 
-I would greatly appreciate your feedback.
+I would greatly appreciate your feedback. If you have one, please share it on LinkedIn as I have no comments in this blog:
+
+https://www.linkedin.com/posts/roman-st_fosdem-2026-reproducing-a-syzbot-bug-in-activity-7427057682928418816-WuAe
+
 
 Thank you.
