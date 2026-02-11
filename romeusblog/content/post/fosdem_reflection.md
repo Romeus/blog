@@ -134,6 +134,18 @@ Public speaking techniques should not be rigid rules that limit expression. They
 
 ---
 
+## A good part
+I also want to briefly highlight what went well.  
+The live demo worked perfectly and stayed within the time limit — but I had a solid backup plan in place.
+
+I had pre-recorded the bug reproduction and patch application using **asciinema**, and I kept local copies in my presentation folder. If anything had gone wrong during the live demo, I could have immediately switched to another tmux tab and replayed it using `asciinema play`.
+
+As an additional fallback, I also had a Firefox tab open with the recordings uploaded to asciinema and ready to play.
+
+Having two levels of backup removed a lot of stress and helped me feel much more confident during the demo.
+
+---
+
 ## Conclusion
 
 To conclude, none of the above matters without the main goal:
