@@ -30,6 +30,7 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  custom_css = ["css/custom.css"]
 #  cusdisID = "XXX" # Get your App id from cusdis.com
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
@@ -82,9 +83,16 @@ pygmentsCodefencesGuessSyntax = true
 #  strava = "userid"
 
 [[menu.main]]
+    name = "CV (resume) pdf"
+    url = "cv/cv_roman_storozhenko_latest.pdf"
+    weight = 1
+    [menu.main.params]
+            class = "highlight-menu-item"
+
+[[menu.main]]
     name = "Blog"
     url = ""
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "About"
@@ -94,4 +102,4 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 2
+    weight = 4
